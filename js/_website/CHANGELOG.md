@@ -1,5 +1,16 @@
 # website
 
+## 0.43.0
+
+### Features
+
+- [#10073](https://github.com/gradio-app/gradio/pull/10073) [`873dab5`](https://github.com/gradio-app/gradio/commit/873dab5bce32de472523b851d443588106223e21) - Fix the Playground to ignore comments in the requirements text.  Thanks @whitphx!
+- [#9998](https://github.com/gradio-app/gradio/pull/9998) [`6cc13f5`](https://github.com/gradio-app/gradio/commit/6cc13f55e00ff29e833fd55493a53b654f23fbcc) - Playground exclude unavailable packages.  Thanks @whitphx!
+
+### Dependency updates
+
+- @gradio/paramviewer@0.6.0
+
 ## 0.42.3
 
 ### Fixes
